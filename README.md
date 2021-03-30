@@ -1,4 +1,4 @@
-### Hi there, I'm ChenJun 👋 
+### Hi, I'm ChenJun 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hit-thusz-Rookiecj.hit-thusz-Rookiecj.README)
 ![blog](https://img.shields.io/badge/blog-https%3A%2F%2Fblog.csdn.net%2Fjunbaba__%3Fspm%3D1010.2135.3001.5113-red)
 
@@ -10,7 +10,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 📫 How to reach me: chenjunfromhit@gmail.com
 
-### About my Github
 ![](https://github-readme-stats.vercel.app/api?username=hit-thusz-Rookiecj&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hit-thusz-Rookiecj&layout=compact)
