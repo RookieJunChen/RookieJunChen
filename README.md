@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm ChenJun 👋 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hit-thusz-Rookiecj.hit-thusz-Rookiecj.README)
+![blog](https://img.shields.io/badge/blog-https%3A%2F%2Fblog.csdn.net%2Fjunbaba__%3Fspm%3D1010.2135.3001.5113-red)
 
-<!--
-**hit-thusz-RookieCJ/hit-thusz-Rookiecj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I’m a student of Harbin Institute of Technology.
+- 🏛 I’m going to do my master's degree in Tsinghua University.
+- 🚀 I use daily:
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 📫 How to reach me: chenjunfromhit@gmail.com
 
-Here are some ideas to get you started:
+### About my Github
+![](https://github-readme-stats.vercel.app/api?username=hit-thusz-Rookiecj&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hit-thusz-Rookiecj&layout=compact)
