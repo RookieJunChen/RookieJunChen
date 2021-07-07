@@ -6,7 +6,7 @@
 - 🎓 I’m a student of [Tsinghua University](https://www.tsinghua.edu.cn/).
 - 📚 Working on Speech Enhancement recently.
 - :briefcase: Worked as Research Intern at [MSRA](https://www.microsoft.com/en-us/research/).
-- 🔭 I am currently working at [Huya](http://ir.huya.com/).
+- 🔭 Currently working at [Huya](http://ir.huya.com/).
 - 🚀 I use daily:
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
