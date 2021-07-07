@@ -4,7 +4,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hit-thusz-Rookiecj&show_icons=true">
 
 - 🎓 I’m a student of [Tsinghua University](https://www.tsinghua.edu.cn/).
-- 📚 Working on Controllable TTS and Speech Enhancement recently.
+- 📚 Working on Speech Enhancement recently.
 - :briefcase: Worked as Research Intern at [MSRA](https://www.microsoft.com/en-us/research/).
 - 🔭 I am currently working at [Huya](http://ir.huya.com/).
 - 🚀 I use daily:
