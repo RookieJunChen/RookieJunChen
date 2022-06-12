@@ -1,6 +1,7 @@
 ### Hi, I'm Jun Chen 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hit-thusz-Rookiecj.hit-thusz-Rookiecj.README)
-![blog](https://img.shields.io/badge/blog-https%3A%2F%2Fblog.csdn.net%2Fjunbaba__%3Fspm%3D1010.2135.3001.5113-red)
+[![blog](https://img.shields.io/badge/blog-my%20blog-red)](https://blog.csdn.net/junbaba_?spm=1010.2135.3001.5113)
+[![website](https://img.shields.io/badge/-personal%20page-important?style=plastic&logo=MEGA)](https://hit-thusz-rookiecj.github.io/JunChen.github.io/)
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hit-thusz-Rookiecj&show_icons=true">
 
 - 🎓 I’m a student of [Tsinghua University](https://www.tsinghua.edu.cn/).
